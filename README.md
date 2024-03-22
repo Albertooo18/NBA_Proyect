@@ -3,9 +3,13 @@ Análisis de estadísticas de jugadores de la NBA para identificar factores que 
 
 # Equipo
 Cristian Mendoza – director de proyecto
+
 Andrés Carbonell – Experto de campo
+
 Amílcar Ortiz - Programador
+
 Edwin Saucedo – Programador - Organizador
+
 Ricardo Jiménez - Programador
 
 # Organizacion
